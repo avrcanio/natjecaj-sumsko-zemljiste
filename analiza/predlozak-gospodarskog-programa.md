@@ -21,7 +21,11 @@
 
 Radni prijedlog:
 
-Poljoprivredna djelatnost - pasarenje stoke na sumskom zemljistu uz odrzavanje povrsina pogodnih za ispasu i povezivanje zakupljenih povrsina s postojecim ili planiranim gospodarenjem poljoprivrednog gospodarstva.
+Poljoprivredna djelatnost - pasarenje stoke na sumskom zemljistu uz odrzavanje povrsina pogodnih za ispasu i povezivanje zakupljenih povrsina s postojecim gospodarenjem poljoprivrednog gospodarstva.
+
+Dodatna formulacija:
+
+Planirano koristenje temelji se na postojecem iskustvu prijavitelja u upravljanju pasnim povrsinama koje su vec u zakupu od Hrvatskih suma, uz primjenu istih ili slicnih organizacijskih i tehnickih rjesenja.
 
 Verzija za doradu:
 
@@ -31,11 +35,12 @@ Verzija za doradu:
 
 Radni okvir:
 
-- postavljanje i odrzavanje privremene ograde ili pastira ako bude dopusteno i potrebno
+- postavljanje, koristenje i odrzavanje elektricnog pastira i ograde u skladu s uvjetima zakupa i vazecim pravilima Hrvatskih suma
 - ciscenje i odrzavanje prolaza za pristup i kontrolu stoke
-- organizacija pojilista i osnovne opreme za drzanje stoke, ako je dopusteno
+- organizacija i odrzavanje pojilista te osnovne opreme potrebne za drzanje i kontrolu stoke na pasnim povrsinama
 - redovno odrzavanje povrsina radi funkcionalnog pasarenja
 - troskovi administracije, pracenja i uskladivanja s uvjetima zakupa
+- koristenje istog ili usporedivog modela upravljanja kakav se vec provodi na postojecim pasnjacima u zakupu od Hrvatskih suma
 
 Polje za ispunu:
 
