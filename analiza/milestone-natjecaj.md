@@ -90,7 +90,9 @@ Otvoreno:
 
 - pribaviti potvrdu Porezne uprave
 - pribaviti potvrdu iz Upisnika poljoprivrednika
-- pribaviti potvrdu o stoci i uvjetnim grlima
+- pribaviti izlistaj stoke
+- pribaviti potvrdu o broju uvjetnih grla
+- potvrda o uvjetnim grlima ide kroz izracun i odobrenje iz HAPIH-a / Zagreba
 - pribaviti ARKOD potvrdu
 - potvrditi koristi li se pravo prednosti i po kojoj osnovi
 - potvrditi treba li izjava o izjednacavanju uvjetnih grla za neku od tri tocke

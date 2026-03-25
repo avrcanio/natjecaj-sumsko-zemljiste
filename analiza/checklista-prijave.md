@@ -26,7 +26,8 @@
 - [ ] gospodarski program koristenja sumskog zemljista
 - [ ] izjava o prihvacanju uvjeta javnog poziva
 - [ ] potvrda o upisu u Upisnik poljoprivrednika
-- [ ] potvrda o vlasnistvu ili posjedu stoke te broju uvjetnih grla
+- [ ] izlistaj stoke
+- [ ] potvrda o broju uvjetnih grla
 - [ ] potvrda o evidentiranim povrsinama u sustavu ARKOD
 - [ ] ugovor o zakupu, ako se koristi kriterij iz clanka 9. stavka 1. tocke 1.
 - [ ] dokaz o vlasnistvu ili posjedu zemljista, ako se trazi pravo prednosti iz clanka 9. stavka 2.
