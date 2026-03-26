@@ -30,6 +30,8 @@
 - [ ] potvrda o broju uvjetnih grla
 - [ ] potvrda o evidentiranim povrsinama u sustavu ARKOD
 - [ ] ugovor o zakupu, ako se koristi kriterij iz clanka 9. stavka 1. tocke 1.
+- [ ] postojeci ugovori s Hrvatskim sumama su prilozni ako se na njima temelji pravo prednosti ili status dosadasnjeg zakupnika
+- [ ] evidentiran je odgovor Hrvatskih suma / racunovodstva o stanju obveza po dosadasnjim ugovorima
 - [ ] dokaz o vlasnistvu ili posjedu zemljista, ako se trazi pravo prednosti iz clanka 9. stavka 2.
 - [ ] izjava o obvezi izjednacavanja potrebnog broja uvjetnih grla, ako je trazena povrsina do 10% veca od trenutnih potreba
 
@@ -41,6 +43,8 @@
 - [ ] provjeren je odnos povrsine i broja uvjetnih grla
 - [ ] provjereno postoji li osnova za pravo prednosti
 - [ ] provjereno postoji li dokaz dosadasnjeg zakupa i urednog ispunjavanja obveza
+- [ ] provjereno je stanje obveza prema Hrvatskim sumama i evidentirano da postoji pretplata od 0,66 EUR prema zaprimljenom odgovoru racunovodstva
+- [ ] u prijavi i popratnoj argumentaciji je jasno navedeno postojanje dosadasnjih ugovora s Hrvatskim sumama, ako se na tome temelji prednost
 - [ ] provjerena je lokalna povezanost ako se na nju racuna
 - [ ] provjeren je ponudeni iznos zakupnine
 
