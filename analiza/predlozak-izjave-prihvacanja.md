@@ -8,7 +8,7 @@
 - OIB fizicke osobe:
 - OIB vlasnika obrta:
 - Ulica i broj: Srima IX 22
-- Postanski broj i mjesto:
+- Postanski broj i mjesto: 22211 Stima (Vodice)
 
 ## Tekst izjave
 
