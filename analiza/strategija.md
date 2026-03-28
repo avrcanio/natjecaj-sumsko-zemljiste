@@ -31,3 +31,5 @@ Formirati jedinstvenu cjelinu pasarenja.
 - postojeci ugovor za GJ Hartic, k.o. Cista, iz 2024. godine takoder izravno podupire tocku 8 kao dokaz da je prijavitelj dosadasnji zakupnik
 - isti ugovor daje i jaku osnovu za argumentaciju po tocki 9 za tocku 15-308, jer se preklapa na dijelu k.c. 2413/2 u k.o. Cista
 - za tocku 15-308 treba posebno naglasiti funkcionalnu povezanost postojeceg zakupa i novo trazene povrsine
+- dodatni postojeci ugovor za GJ Brzovaca, k.o. Vuksic, k.c. 1465/85, iz 2024. godine dodatno podupire tocku 8 kao dokaz kontinuiteta zakupa i iskustva prijavitelja na istom podrucju
+- taj ugovor je koristan kao opci argument kontinuiteta koristenja i gospodarenja pasnim povrsinama u GJ Brzovaca, iako izravno preklapanje s novim tockama nije vidljivo iz samog OCR-a
