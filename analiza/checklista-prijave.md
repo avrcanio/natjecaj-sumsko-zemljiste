@@ -32,6 +32,7 @@
 - [ ] ugovor o zakupu, ako se koristi kriterij iz clanka 9. stavka 1. tocke 1.
 - [ ] postojeci ugovori s Hrvatskim sumama su prilozni ako se na njima temelji pravo prednosti ili status dosadasnjeg zakupnika
 - [ ] evidentiran je odgovor Hrvatskih suma / racunovodstva o stanju obveza po dosadasnjim ugovorima
+- [ ] ocitovanje Hrvatskih suma o stanju obveza priloziti u svaku omotnicu kao dodatni dokaz urednog izvrsavanja obveza
 - [ ] dokaz o vlasnistvu ili posjedu zemljista, ako se trazi pravo prednosti iz clanka 9. stavka 2.
 - [ ] izjava o obvezi izjednacavanja potrebnog broja uvjetnih grla, ako je trazena povrsina do 10% veca od trenutnih potreba
 
