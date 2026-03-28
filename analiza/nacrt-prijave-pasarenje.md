@@ -15,7 +15,7 @@ Napomena:
 - E-mail adresa: iklaric@dalekopro.hr
 - OIB: 34976906873
 - Tocka javnog poziva za koju se podnosi prijava: 15-308
-- Ponudeni godisnji iznos zakupnine bez PDV-a (EUR):
+- Ponudeni godisnji iznos zakupnine bez PDV-a (EUR): 879,84
 - Rok na koji se podnosi prijava (godina): 10
 - Mjesto:
 - Datum:
@@ -40,7 +40,7 @@ Podaci o tocki:
 - E-mail adresa: iklaric@dalekopro.hr
 - OIB: 34976906873
 - Tocka javnog poziva za koju se podnosi prijava: 15-508
-- Ponudeni godisnji iznos zakupnine bez PDV-a (EUR):
+- Ponudeni godisnji iznos zakupnine bez PDV-a (EUR): 1.378,56
 - Rok na koji se podnosi prijava (godina): 10
 - Mjesto:
 - Datum:
@@ -64,7 +64,7 @@ Podaci o tocki:
 - E-mail adresa: iklaric@dalekopro.hr
 - OIB: 34976906873
 - Tocka javnog poziva za koju se podnosi prijava: 15-510
-- Ponudeni godisnji iznos zakupnine bez PDV-a (EUR):
+- Ponudeni godisnji iznos zakupnine bez PDV-a (EUR): 797,23
 - Rok na koji se podnosi prijava (godina): 10
 - Mjesto:
 - Datum:
