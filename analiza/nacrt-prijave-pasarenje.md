@@ -11,7 +11,7 @@ Napomena:
 
 - Ime i prezime / naziv: DALMACIJA EKO PROJEKT, poljoprivredna zadruga branitelja
 - Adresa / sjediste: Srima IX 22, Srima (Grad Vodice)
-- Telefon:
+- Telefon: +385 91 5247504
 - E-mail adresa: iklaric@dalekopro.hr
 - OIB: 34976906873
 - Tocka javnog poziva za koju se podnosi prijava: 15-308
@@ -36,7 +36,7 @@ Podaci o tocki:
 
 - Ime i prezime / naziv: DALMACIJA EKO PROJEKT, poljoprivredna zadruga branitelja
 - Adresa / sjediste: Srima IX 22, Srima (Grad Vodice)
-- Telefon:
+- Telefon: +385 91 5247504
 - E-mail adresa: iklaric@dalekopro.hr
 - OIB: 34976906873
 - Tocka javnog poziva za koju se podnosi prijava: 15-508
@@ -60,7 +60,7 @@ Podaci o tocki:
 
 - Ime i prezime / naziv: DALMACIJA EKO PROJEKT, poljoprivredna zadruga branitelja
 - Adresa / sjediste: Srima IX 22, Srima (Grad Vodice)
-- Telefon:
+- Telefon: +385 91 5247504
 - E-mail adresa: iklaric@dalekopro.hr
 - OIB: 34976906873
 - Tocka javnog poziva za koju se podnosi prijava: 15-510

@@ -4,13 +4,13 @@
 
 - Ime i prezime / naziv: DALMACIJA EKO PROJEKT, poljoprivredna zadruga branitelja
 - Adresa / sjediste: Srima IX 22, Srima (Grad Vodice)
-- Telefon:
+- Telefon: +385 91 5247504
 - E-mail adresa: iklaric@dalekopro.hr
 - OIB: 34976906873
 - MBS: 100015988
 - MB / MBO: 02608537
 - MIBPG: 207236
-- Osoba ovlastena za zastupanje: Irena Klaric
+- Osoba ovlastena za zastupanje: Irena Klarić
 - OIB osobe ovlastene za zastupanje: 45224556885
 
 ## Podaci o prijavi
@@ -38,7 +38,7 @@
 - OIB prijavitelja: 34976906873
 - MBS prijavitelja: 100015988
 - MIBPG prijavitelja: 207236
-- Zastupnik za potpis: Irena Klaric
+- Zastupnik za potpis: Irena Klarić
 - Trazena tocka javnog poziva:
 - Katastarske cestice:
 - Ukupna povrsina:

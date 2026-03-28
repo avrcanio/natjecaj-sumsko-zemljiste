@@ -9,8 +9,8 @@
 - Ime i prezime / naziv: DALMACIJA EKO PROJEKT, poljoprivredna zadruga branitelja
 - Adresa: Srima IX 22, Srima (Grad Vodice)
 - OIB: 34976906873
-- Osoba za kontakt: Irena Klaric
-- Broj telefona:
+- Osoba za kontakt: Irena Klarić
+- Broj telefona: +385 91 5247504
 - E-posta: iklaric@dalekopro.hr
 
 ## 3. Svrha zakupa sumskog zemljista
