@@ -25,3 +25,9 @@ Formirati jedinstvenu cjelinu pasarenja.
 - treba evidentirati odgovor racunovodstva Hrvatskih suma o stanju obveza po dosadasnjim ugovorima
 - zaprimljeni odgovor trenutno pokazuje pretplatu od 0,66 EUR, a ne nepodmireni dug
 - novi zakup treba prikazati kao prosirenje i povezivanje postojecih povrsina u funkcionalnu cjelinu pasarenja
+- postojeci ugovor za GJ Brzovaca, k.o. Vuksic, iz 2024. godine izravno podupire tocku 8 kao dokaz da je prijavitelj dosadasnji zakupnik
+- isti ugovor daje i osnovu za argumentaciju po tocki 9 za tocku 15-510, jer se preklapa na dijelu k.c. 1689/2 u k.o. Vuksic
+- za tocku 15-510 treba posebno naglasiti funkcionalnu povezanost postojeceg zakupa i novo trazene povrsine
+- postojeci ugovor za GJ Hartic, k.o. Cista, iz 2024. godine takoder izravno podupire tocku 8 kao dokaz da je prijavitelj dosadasnji zakupnik
+- isti ugovor daje i jaku osnovu za argumentaciju po tocki 9 za tocku 15-308, jer se preklapa na dijelu k.c. 2413/2 u k.o. Cista
+- za tocku 15-308 treba posebno naglasiti funkcionalnu povezanost postojeceg zakupa i novo trazene povrsine
