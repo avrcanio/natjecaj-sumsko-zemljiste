@@ -1,20 +1,26 @@
-# Natjecaj Hrvatske šume 2026
+# Natjecaj Hrvatske sume 2026
 
 ## Cilj
-Zakup šumskog zemljišta za pašarenje (buša)
+Zakup sumskog zemljista za pasarenje (busa)
 
-## Točke
+## Tocke
 - 15-308
 - 15-508
 - 15-510
 
 ## Status
-- [x] Odabrane čestice
+- [x] Odabrane cestice
 - [x] Gospodarski program
-- [ ] Prijava poslana
+- [x] Prijava poslana
 
 ## Dokumentacija
 - Izvadak registra
 - Porezna
 - ARKOD
-- JRDŽ
+- JRDZ
+- Potvrda o slanju preporucenih posiljaka (31.03.2026.)
+
+## Pracenje posiljaka
+- [RH029553632HR](https://posiljka.posta.hr/hr/tracking/trackingdata?barcode=RH029553632HR)
+- [RH029553796HR](https://posiljka.posta.hr/hr/tracking/trackingdata?barcode=RH029553796HR)
+- [RH029553915HR](https://posiljka.posta.hr/hr/tracking/trackingdata?barcode=RH029553915HR)
